@@ -1,8 +1,4 @@
 # Web-Server-Team
-Linux Star is our team name.
-
-
-Team Name: Server squad?
 
 Research: Chinou
 Hosting a web server we using apache2 to make a server host. 
